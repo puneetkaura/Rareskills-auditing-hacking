@@ -78,3 +78,49 @@ read dangers of [mixed accounting](https://twitter.com/RareSkills_io/status/1640
 ### Day 17: Storage pointer
 
 - [ ]  RareSkills Riddles: Delete user (this is challenging)
+
+
+# Week 8
+
+### Day 18-19: Issues with the delete keyword
+
+- [ ]  RareSkills Riddles: Viceroy (this is a lot more challenging compare to earlier CTFs)
+
+### Day 20: Denial of service / gas griefing
+
+- [ ]  Ethernaut #9 King
+- [ ]  Ethernaut #20 Denial
+
+### Day 21: Access control or bad input validation
+
+- [ ]  Ethernaut #23 Dex2
+- [ ]  Ethernaut #17
+- [ ]  Damn Vulnerable DeFi #2 Naive Receiver
+
+# Week 9
+
+### Day 22: Private Variables
+
+Watch: [private variables](https://www.youtube.com/watch?v=Gg6nt3YW74o)
+
+- [ ]  Ethernaut #8 Vault
+
+### Day 23: Cross function re-entrancy
+
+- [ ]  RareSkills Riddles: RewardToken
+
+### Day 24: Flash loan attacks part 1
+
+- [ ]  RareSkills Riddles: Simple flash loan (this is very time consuming)
+
+### Day 25: Read-only Re-entrancy
+
+- [ ]  RareSkills Riddles: Read-only reentrancy
+
+# Week 10
+
+### Day 26-30: Flash loan attacks part 2
+
+- [ ]  Prerequisite: [ERC20Snapshot](https://www.rareskills.io/post/erc20-snapshot)
+- [ ]  Damn Vulnerable DeFi #5
+- [ ]  Damn Vulnerable DeFi #6
